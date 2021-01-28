@@ -1,1 +1,2 @@
-# Waste-Basket
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
